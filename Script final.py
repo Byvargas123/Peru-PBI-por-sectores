@@ -1,10 +1,10 @@
 #Importación de librerías
-import pandas as pd                          #Pip install pandas
-import os                                    #Pip install OS
-from openpyxl import load_workbook           #Pip install openpyxl
-import glob                                  #Abrir archivo con nombre
+import pandas as pd                          #Pip install pandas.
+import os                                    #Pip install OS.
+from openpyxl import load_workbook           #Pip install openpyxl.
+import glob                                  #Abrir archivo con nombre.
 import zipfile
-                                             #pip install playwright, pip install xlml, playwright install chromium
+                                             #pip install playwright, pip install xlml, playwright install chromium.
 #Definiendo ruta de trabajo
 ruta_proyectoconsolidado = "G:/Mi unidad/CONSULTORA/Proyecto seguimiento economia/PBI Sectorial Peru/Base a procesar" # colocamos la carpeta deseada
 os.chdir(ruta_proyectoconsolidado)
