@@ -1,6 +1,6 @@
 # Proyecto PBI por Sector
 
-Este repositorio contiene la estimación mensual del Valor Agregado Bruto (VAB) de Perú a nivel de producto.
+Este repositorio contiene la estimación mensual del Valor Agregado Bruto (VAB) de Perú a nivel de producto para el periodo 2012-2025.
 
 📊 **Visualiza el reporte interactivo de Power BI aquí:**
 
